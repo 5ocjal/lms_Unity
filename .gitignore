@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/.DS_Store
+Assets/Art/.DS_Store
+Assets/Art/World/.DS_Store
